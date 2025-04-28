@@ -40,6 +40,11 @@ To run experiments please use the `train_DATASET_NAME.sh` shell script.
 
 
 ## Citation
+
+
+- Torba, F., Gravier, C., Laclau, C., Kammoun, A., Subercaze, J. (2025). Decoding the Hierarchy: A Hybrid Approach to Hierarchical Multi-label Text Classification. In: Hauff, C., et al. Advances in Information Retrieval. ECIR 2025. Lecture Notes in Computer Science, vol 15572. Springer, Cham. https://doi.org/10.1007/978-3-031-88708-6_26
+
+  
 - Code inspired from : [*Yova Kementchedjhieva and Ilias Chalkidis. 2023. An Exploration of Encoder-Decoder Approaches to Multi-Label Classification for Legal and Biomedical Text. In Findings of the Association for Computational Linguistics: ACL 2023, pages 5828–5843, Toronto, Canada. Association for Computational Linguistics.*](https://aclanthology.org/2023.findings-acl.360/)
 ```
 @inproceedings{kementchedjhieva-chalkidis-2023-exploration,
@@ -55,4 +60,3 @@ To run experiments please use the `train_DATASET_NAME.sh` shell script.
     pages = "5828--5843"
 }
 ```
-- TODO:  cite paper. 
