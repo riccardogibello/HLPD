@@ -30,7 +30,7 @@ do
   --load_best_model_at_end \
   --metric_for_best_model macro-micro-f1 \
   --greater_is_better True \
-  --evaluation_strategy steps \
+  --eval_strategy steps \
   --save_strategy steps \
   --num_train_epochs 30 \
   --per_device_train_batch_size ${BATCH_SIZE} \

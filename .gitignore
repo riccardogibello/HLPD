@@ -163,3 +163,7 @@ notebooks/
 */hierarchical_files/*
 tmp.py
 tmp/
+# Added to ignore the dataset once extracted and all its contents
+**/data_files/_*/
+# Added to remove the hierarchies folder
+**/hierarchies/*
